@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+     <head>
+     </head>
+     <body>
+             <h1>Bemutatkozás</h1>
+             <b>Név:</b> Táborszki Bence</b>
+             <i>Születési hely:</b> Balassagyarmat</i>
+             <u>Születési idő:  2008.01.03</u>
+             <b>Lakhely:</b> Szügy<br>
+       </body>
+       </html>
